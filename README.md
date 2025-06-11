@@ -59,6 +59,5 @@ git clone [repository-url]
 This project is licensed under the MIT License - see the LICENSE file for details
 
 ## Contact
-Your Name - [your-email@example.com]
-
-Project Link: [repository-url] 
+Your Name - Vishva Narola
+Project Link: [https://github.com/vishvanarola/VIPER.git]
